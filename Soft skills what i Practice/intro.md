@@ -1,0 +1,1 @@
+All the soft skils what i learn , practice and imply in my life thats alls are noted here.

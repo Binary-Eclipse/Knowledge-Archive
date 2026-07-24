@@ -6,8 +6,8 @@ A collection of all the books I have read, am currently reading, or plan to read
 
 | # | Book | Author | Category | Review |
 |---|---|---|---|---|
-| 1 | [Atomic Habits](BOOK_LINK) | James Clear | Personal Development | [Read Review](REVIEW_LINK) |
-| 2 | [Book Name](BOOK_LINK) | Author | Psychology | [Read Review](REVIEW_LINK) |
+| 1 | [0](BOOK_LINK) | James Clear | Personal Development | [Read Review](REVIEW_LINK) |
+| 2 | [0](BOOK_LINK) | Author | Psychology | [Read Review](REVIEW_LINK) |
 
 ---
 
@@ -15,7 +15,7 @@ A collection of all the books I have read, am currently reading, or plan to read
 
 | # | Book | Author | Category | Progress |
 |---|---|---|---|---|
-| 1 | [Book Name](BOOK_LINK) | Author | Technology | 40% |
+| 1 | [জীবন যেখানে যেমন](BOOK_LINK) | আরিফ আজাদ | নিরেট গল্পের বই | 40% |
 
 ---
 

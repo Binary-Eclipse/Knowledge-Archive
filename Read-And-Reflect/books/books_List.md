@@ -25,7 +25,7 @@ A collection of all the books I have read, am currently reading, or plan to read
 |---|---|---|---|
 | 1 | [নবী জীবনের গল্প](BOOK_LINK) | আরিফ আজাদ | নিরেট গল্পের বই |
 | 2 | [চাঁদের আলোয় কয়েকজন যুবক](BOOK_LINK) | হুমায়ূন আহমেদ | বাংলা সাহিত্য |
-| 3 | [Show Your Work](BOOK_LINK) | Austin Kleon| নCreativity / Personal Development |
+| 3 | [Show Your Work](BOOK_LINK) | Austin Kleon| Creativity / Personal Development |
 | 4 | [Think and Grow Rich](BOOK_LINK) | Napoleon Hill | Personal Development / Business / Success |
 
 ---

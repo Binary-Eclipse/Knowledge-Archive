@@ -1,6 +1,6 @@
 # Research Guide & Course Directory
 
-**Original Video Reference:** [How to Research Any Topic - Deep-Dive like a PhD Student](https://youtu.be/6gjzCrOFETE)
+**Courses main page link:** [Top Research Courses on Coursera](https://www.coursera.org/courses?query=research&utm_medium=sem&utm_source=gg&utm_campaign=b2c_apac_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_s2-v2_all_m_hyb_25-08_desktop&campaignid=22914406262&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6603341641&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=22918548145&gbraid=0AAAAADdKX6ZwBwmW86ecT3jjr2XEe1b_m&gclid=Cj0KCQjw4JbTBhCoARIsALWUaBvIJBARh8kQtx3spyTMF6WA8_xLido_P740hZwtX-E5BXnzt4yvzDUaAp4vEALw_wcB)
 
 This document provides a directory of top-rated research courses available on Coursera, categorized by their enrollment and pricing models. 
 
@@ -11,55 +11,38 @@ These are standalone courses. You can access the video lectures and readings for
 
 ### 1. Understanding Research Methods
 * **Institution:** University of London.
-* **Description:** This course can help you learn data collection techniques, statistical analysis, literature review methods, and experimental design. You can build skills in critical thinking, hypothesis testing, and effective communication of findings.
+* **Description:** This course helps you learn data collection techniques, literature review methods, and research design. It also covers what makes a good research question and why planning and management skills are important for research.
+* **Link:** [View Course](https://www.coursera.org/learn/research-methods)
 
 ### 2. Research Methodologies
 * **Institution:** Queen Mary University of London.
-* **Description:** This course helps you build skills in qualitative research, focus groups, and survey creation. It is beginner-friendly and requires no prerequisites.
+* **Description:** This course focuses on qualitative and quantitative methodologies, sampling approaches, and primary and secondary data collection. You will explore focus groups, ethnography, experimental research design, and survey methodology.
+* **Link:** [View Course](https://www.coursera.org/learn/research-methodologies)
 
 ### 3. Qualitative Research Methods
 * **Institution:** University of Amsterdam.
-* **Description:** This intermediate course focuses on interviewing skills, research reports, and ethical standards in social sciences. 
-
-### 4. Market Research and Competitive Analysis
-* **Institution:** Microsoft.
-* **Description:** This beginner-friendly course covers competitive intelligence, persona development, and data-driven decision-making. It helps you identify target markets and customer insights.
-
-### 5. Understanding Medical Research: Your Facebook Friend is Wrong
-* **Institution:** Yale University.
-* **Description:** A highly-rated beginner course focused on evaluating medical research and understanding scientific literature. 
-
-### 6. Academic Research Types and Methods
-* **Institution:** University of California, Davis.
-* **Description:** This course explores what research means and how it is conducted across disciplines. It addresses essential topics for every researcher, including research integrity, intellectual property, and safety.
+* **Description:** This course hones in on qualitative research, focusing on interviewing skills, data collection, research reports, and ethical standards.
+* **Link:** [View Course](https://www.coursera.org/learn/qualitative-methods)
 
 ---
 
 ## 🟡 7-Day Free Trial (Specializations)
-These are comprehensive "Specializations" consisting of multiple rigorous courses. They offer a 7-day free trial, followed by a recurring monthly subscription fee until you complete the program. 
+These are comprehensive "Specializations" consisting of multiple rigorous courses designed to help you master a specific career skill. They offer a 7-day free trial, followed by a recurring monthly subscription fee until you complete the program. 
 
 ### 1. Methods and Statistics in Social Sciences
 * **Institution:** University of Amsterdam.
-* **Description:** This specialization covers qualitative research, scientific methods, and statistical hypothesis testing. In the final project, you will gather data and analyze it using statistical methods.
+* **Description:** A specialization that covers qualitative research, scientific methods, statistical hypothesis testing, and data analysis using tools like R programming. 
+* **Link:** [View Specialization](https://www.coursera.org/specializations/social-science)
 
 ### 2. Psychological Research
-* **Institution:** American Psychological Association.
-* **Description:** This specialization teaches skills related to the Institutional Review Board (IRB), descriptive statistics, and data literacy. It guides learners through research design and statistical visualization.
+* **Institution:** American Psychological Association (APA).
+* **Description:** Designed to improve your research design and ethical understanding. You will learn about Institutional Review Boards (IRB), descriptive statistics, data literacy, and statistical visualization.
+* **Link:** [View Specialization](https://www.coursera.org/specializations/psychological-research)
 
 ### 3. Market Research
 * **Institution:** University of California, Davis.
-* **Description:** This specialization helps you gain skills in quantitative research, data visualization, and marketing analytics. You will learn survey creation, data synthesis, and data storytelling.
-
-### 4. Introduction to Academic Research Specialization
-* **Institution:** University of California, Davis.
-* **Description:** This specialization is designed to guide learners through the essential stages of beginning an academic research journey. It helps you discover your strengths, understand research fundamentals, and develop ethical research skills.
-
-### 5. User Experience Research and Design
-* **Institution:** University of Michigan.
-* **Description:** A popular beginner-level specialization focused on user experience and design principles.
-
-### 6. Survey Data Collection and Analytics
-* **Institution:** University of Michigan.
-* **Description:** This specialization covers sample size determination, survey creation, and data analysis. It introduces statistical software tools like STATA and R.
+* **Description:** This specialization focuses on quantitative research, data visualization, survey creation, and data storytelling. It teaches skills for market research, marketing analytics, and statistical hypothesis testing.
+* **Link:** [View Specialization](https://www.coursera.org/specializations/market-research)
 
 ---
+
